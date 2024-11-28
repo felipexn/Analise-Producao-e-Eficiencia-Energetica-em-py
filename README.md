@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Análise de Produção de Energia</title>
-</head>
 <body>
     <h1>Análise de Produção de Energia</h1>
     <p>Este projeto realiza a análise de produção e eficiência de um sistema de geração de energia, utilizando dados armazenados em uma planilha Excel.</p>
